@@ -5,5 +5,7 @@ public class GitClass {
     // hello! =)
 
     //creating a new branch and saving all these changes
+
+    //one more input
 }
 
