@@ -1,8 +1,6 @@
 public class GitClass {
     //leaving a comment
     //comment #2
-
-    // hello! =)
-    //message #3
+    // I am trying to do it on my own
 }
 
