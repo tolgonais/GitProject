@@ -3,5 +3,6 @@ public class GitClass {
     //comment #2
 
     // hello! =)
+    //message #3
 }
 
