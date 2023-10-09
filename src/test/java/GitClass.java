@@ -7,5 +7,9 @@ public class GitClass {
     public void test1(){
         System.out.println("Hi! =)");
     }
+
+    public void test2(){
+        System.out.println("Hello!");
+    }
 }
 
