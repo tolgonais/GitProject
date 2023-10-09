@@ -3,5 +3,9 @@ public class GitClass {
     //comment #2
 
     //adding new comment here and a new Branch
+
+    public void test1(){
+        System.out.println("Hi! =)");
+    }
 }
 
